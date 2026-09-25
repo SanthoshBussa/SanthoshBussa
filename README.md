@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://github.com/SanthoshBussa">
+<a href="https://santhosh-bussa-portfolio.onrender.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Santhosh+Bussa;Java+Backend+%26+Microservices+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs+%7C+PostgreSQL;100%2B+DSA+Problems+Solved+in+Java" alt="Typing SVG" />
 </a>
 
@@ -9,8 +9,11 @@
   <b>Associate Software Engineer @ Test Yantra</b> • Designing high-performance, scalable backend applications with <b>Java, Spring Boot, Hibernate, Microservices Architecture, and PostgreSQL</b>.
 </p>
 
-<!-- Social & Contact Badges -->
+<!-- Social, Portfolio & Contact Badges -->
 <p align="center">
+  <a href="https://santhosh-bussa-portfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-santhosh--bussa--portfolio.onrender.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/santhosh-bussa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Santhosh_Bussa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -28,6 +31,7 @@
 
 ## 👨‍💻 About Me
 
+- 🌐 **Official Portfolio**: [**santhosh-bussa-portfolio.onrender.com**](https://santhosh-bussa-portfolio.onrender.com)
 - 🚀 **Java Backend Developer** with **1+ years of experience** building high-performance, scalable enterprise backend systems using **Java, Spring Boot, Hibernate, and Microservices Architecture**.
 - 🔐 Experienced in implementing stateless **JWT Authentication & Role-Based Access Control (RBAC)** with **Spring Security**, reducing unauthorized access attempts by **99.99%**.
 - ⚡ Designed and optimized **20+ RESTful APIs** in microservices environments, improving response times by **20%** and executing **300+ API test cases** via **Postman**.
@@ -46,19 +50,20 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java_(8%2F17)-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java_(8%2F17%2F25)-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 | **Backend & Frameworks** | ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_ORM-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices_Architecture-0284C7?style=flat-square) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square) |
 | **Security & Integrations** | ![Spring Security](https://img.shields.io/badge/Spring_Security_(JWT)-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay_API-02042B?style=flat-square&logo=razorpay&logoColor=3395FF) |
-| **Databases, Build & Testing** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit_5_%26_Mockito-25A162?style=flat-square&logo=junit5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-8B5CF6?style=flat-square) |
+| **Databases, Build & Testing** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-8B5CF6?style=flat-square) |
 
 ---
 
-## 🚀 Featured Backend Projects
+## 🚀 Featured Backend Projects & Portfolio
 
-| Project | Tech Stack | Backend Architecture Highlights | Repository |
+| Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
 | **🛒 [Ecommerce Management System](https://github.com/SanthoshBussa/ecommerce-management-system)** | `Java 17` `Spring Boot 3` `Spring Security (JWT)` `Hibernate/JPA` `PostgreSQL` `Maven (pom.xml)` `Razorpay` `Postman` | • Architected scalable RESTful backend APIs for user authentication, cart management, and transactional order processing<br/>• Integrated stateless JWT authentication & RBAC using Spring Security<br/>• Built dynamic JPQL product filtering, pagination, 6-stage real-time order tracking APIs & Razorpay HMAC-SHA256 payment verification | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthoshBussa/ecommerce-management-system) |
 | **🧠 [Data Structures & Algorithms (DSA)](https://github.com/SanthoshBussa/DSA)** | `Java 17` `Algorithms` `Data Structures` `LeetCode` `GeeksforGeeks` | • 100+ DSA problems solved in Java across Arrays, Two Pointers, Binary Search, Linked Lists, Stacks, Binary Trees & Dynamic Programming<br/>• Documented with optimal time and space complexity analysis | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthoshBussa/DSA) |
+| **🌐 [Official Developer Portfolio](https://santhosh-bussa-portfolio.onrender.com)** | `Render Cloud` `Interactive API Explorer` `ATS Resume` | • Live globally hosted portfolio featuring interactive Spring Boot REST API simulator, experience timeline, DSA complexity matrix & downloadable resume | [![Live](https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=render&logoColor=white)](https://santhosh-bussa-portfolio.onrender.com) |
 
 ---
 
@@ -100,5 +105,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ Built and maintained by <a href="https://github.com/SanthoshBussa"><b>Santhosh Bussa</b></a> • Open to Backend Java & Microservices Engineering opportunities!</sub>
+  <sub>⭐️ Built and maintained by <a href="https://santhosh-bussa-portfolio.onrender.com"><b>Santhosh Bussa</b></a> • Open to Backend Java & Microservices Engineering opportunities!</sub>
 </div>
