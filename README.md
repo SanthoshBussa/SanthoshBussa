@@ -1,7 +1,9 @@
 <div align="center">
 
+<h1>Hi there 👋, I'm Santhosh Bussa</h1>
+
 <a href="https://santhosh-bussa-portfolio.onrender.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Santhosh+Bussa;Java+Backend+%26+Microservices+Developer+(1.6%2B+Yrs+Exp);Spring+Boot+%7C+Hibernate+%7C+REST+APIs+%7C+PostgreSQL;Actively+Looking+for+Java+Backend+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=840&lines=Java+Backend+%26+Microservices+Developer;Associate+Software+Engineer+(1.6%2B+Yrs+Exp);Spring+Boot+%7C+Hibernate+%7C+PostgreSQL;Spring+Security+(JWT)+%7C+RESTful+APIs" alt="Santhosh Bussa Typing SVG" />
 </a>
 
 <p align="center">
@@ -27,14 +29,14 @@
 
 ---
 
-## 🎯 Actively Looking for Job Opportunities
+## 🎯 Target Backend Roles
 
-I am **actively looking for new roles** across Bangalore and India in the following **4 target domains** based on my **1.6+ years of backend engineering experience**:
+**I would like to work in:**
 
-1. ☕ **Java Backend Developer**
-2. 🌱 **Spring Boot & Microservices Engineer**
-3. 🌐 **RESTful API & Backend Software Engineer**
-4. 🗄️ **Enterprise Java & PostgreSQL / SQL Application Developer**
+- **Java Backend Developer**
+- **Spring Boot & Microservices Engineer**
+- **RESTful API & Backend Software Engineer**
+- **Enterprise Java & PostgreSQL / SQL Developer**
 
 ---
 
@@ -60,9 +62,9 @@ I am **actively looking for new roles** across Bangalore and India in the follow
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend & Frameworks** | ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_ORM-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices_Architecture-0284C7?style=flat-square) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square) |
-| **Security & Integrations** | ![Spring Security](https://img.shields.io/badge/Spring_Security_(JWT)-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay_API-02042B?style=flat-square&logo=razorpay&logoColor=3395FF) |
-| **Databases, Build & Testing** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-8B5CF6?style=flat-square) |
+| **Backend & Frameworks** | ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_ORM-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices_Architecture-0284C7?style=flat-square) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square) |
+| **Security & Integrations** | ![Spring Security](https://img.shields.io/badge/Spring_Security_%28JWT%29-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay_API-02042B?style=flat-square&logo=razorpay&logoColor=3395FF) |
+| **Databases, Build & Testing** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-8B5CF6?style=flat-square) |
 
 ---
 
@@ -84,7 +86,7 @@ I am **actively looking for new roles** across Bangalore and India in the follow
 
 - **Microservices & REST APIs**: Designed and developed **20+ RESTful APIs** within a microservices architecture, improving response times by **20%** and enabling efficient cross-service data access.
 - **Enterprise Security**: Implemented **JWT-based authentication** using **Spring Security**, reducing unauthorized access attempts by **99.99%** and strengthening application security posture.
-- **Quality & Agile Delivery**: Executed **300+ API test cases** via Postman to validate functionality and reliability; actively participated in peer code reviews and Agile/Scrum sprints.
+- **Quality & Agile Delivery**: Executed **300+ API test cases** via Postman to validate functionality and reliability; participated in peer code reviews and Agile/Scrum sprints.
 - **Environment**: `Java` • `Spring Boot` • `Hibernate` • `Microservices` • `PostgreSQL` • `Spring Security (JWT)` • `Maven` • `Postman` • `GitHub`
 
 </details>
@@ -103,8 +105,12 @@ I am **actively looking for new roles** across Bangalore and India in the follow
 ## 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SanthoshBussa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Santhosh's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshBussa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanthoshBussa&theme=tokyonight" alt="Santhosh's GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanthoshBussa&theme=tokyonight" alt="Santhosh's GitHub Stats" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanthoshBussa&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -114,5 +120,5 @@ I am **actively looking for new roles** across Bangalore and India in the follow
 ---
 
 <div align="center">
-  <sub>⭐️ Built and maintained by <a href="https://santhosh-bussa-portfolio.onrender.com"><b>Santhosh Bussa</b></a> • Actively Open to Java Backend, Spring Boot & Microservices Opportunities!</sub>
+  <sub>⭐️ Built and maintained by <a href="https://santhosh-bussa-portfolio.onrender.com"><b>Santhosh Bussa</b></a> • Java Backend & Microservices Developer (1.6+ Years Experience)</sub>
 </div>
