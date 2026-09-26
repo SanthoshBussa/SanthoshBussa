@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
 <a href="https://santhosh-bussa-portfolio.onrender.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Santhosh+Bussa;Java+Backend+%26+Microservices+Developer+(1.6%2B+Yrs+Exp);Spring+Boot+%7C+Hibernate+%7C+REST+APIs+%7C+PostgreSQL;Actively+Looking+for+Java+Backend+Opportunities" alt="Typing SVG" />
 </a>
@@ -9,7 +8,6 @@
   <b>Associate Software Engineer @ Test Yantra (1.6+ Years Experience)</b> • Designing high-performance, scalable backend applications with <b>Java, Spring Boot, Hibernate, Microservices Architecture, and PostgreSQL</b>.
 </p>
 
-<!-- Social, Portfolio & Contact Badges -->
 <p align="center">
   <a href="https://santhosh-bussa-portfolio.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-santhosh--bussa--portfolio.onrender.com-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
