@@ -3,11 +3,11 @@
 <h1>Hi there 👋, I'm Santhosh Bussa</h1>
 
 <a href="https://santhosh-bussa-portfolio.onrender.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=840&lines=Java+Backend+%26+Microservices+Developer;Associate+Software+Engineer+(0.6%2B+Yrs+Exp);Spring+Boot+%7C+Hibernate+%7C+PostgreSQL;Spring+Security+(JWT)+%7C+RESTful+APIs" alt="Santhosh Bussa Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=840&lines=Java+Backend+%26+Microservices+Developer;Associate+Software+Engineer+(1.6%2B+Yrs+Exp);Spring+Boot+%7C+Hibernate+%7C+PostgreSQL;Spring+Security+(JWT)+%7C+RESTful+APIs" alt="Santhosh Bussa Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Associate Software Engineer @ Test Yantra (0.6+ Years Experience)</b> • Designing high-performance, scalable backend applications with <b>Java, Spring Boot, Hibernate, Microservices Architecture, and PostgreSQL</b>.
+  <b>Associate Software Engineer @ Test Yantra (1.6+ Years Experience)</b> • Designing high-performance, scalable backend applications with <b>Java, Spring Boot, Hibernate, Microservices Architecture, and PostgreSQL</b>.
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 ## 👨‍💻 About Me
 
 - 🌐 **Official Portfolio**: [**santhosh-bussa-portfolio.onrender.com**](https://santhosh-bussa-portfolio.onrender.com)
-- 🚀 **Java Backend Developer** with **0.6+ years of experience** building high-performance, scalable enterprise backend systems using **Java, Spring Boot, Hibernate, and Microservices Architecture**.
+- 🚀 **Java Backend Developer** with **1.6+ years of experience** building high-performance, scalable enterprise backend systems using **Java, Spring Boot, Hibernate, and Microservices Architecture**.
 - 🔐 Experienced in implementing stateless **JWT Authentication & Role-Based Access Control (RBAC)** with **Spring Security**, reducing unauthorized access attempts by **99.99%**.
 - ⚡ Designed and optimized **20+ RESTful APIs** in microservices environments, improving response times by **20%** and executing **300+ API test cases** via **Postman**.
 - 🧠 Solved **360+ Data Structures & Algorithms** and pattern-based problems across **LeetCode** and **GeeksforGeeks**, strengthening core problem-solving and coding proficiency.
@@ -81,7 +81,7 @@
 ## 💼 Work Experience & Education (Click to Expand)
 
 <details open>
-<summary><b>🏢 Associate Software Engineer — Test Yantra, Bangalore (0.6+ Years Experience)</b></summary>
+<summary><b>🏢 Associate Software Engineer — Test Yantra, Bangalore (1.6+ Years Experience)</b></summary>
 <br/>
 
 - **Microservices & REST APIs**: Designed and developed **20+ RESTful APIs** within a microservices architecture, optimizing database queries, improving response times by **20%**, and enabling efficient cross-service data access.
@@ -120,5 +120,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ Built and maintained by <a href="https://santhosh-bussa-portfolio.onrender.com"><b>Santhosh Bussa</b></a> • Java Backend & Microservices Developer (0.6+ Years Experience)</sub>
+  <sub>⭐️ Built and maintained by <a href="https://santhosh-bussa-portfolio.onrender.com"><b>Santhosh Bussa</b></a> • Java Backend & Microservices Developer (1.6+ Years Experience)</sub>
 </div>

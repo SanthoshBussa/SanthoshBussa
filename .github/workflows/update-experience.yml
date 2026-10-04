@@ -32,7 +32,7 @@ jobs:
           import re
 
           now = datetime.now(timezone.utc)
-          y = now.year - 2026
+          y = now.year - 2025
           m = now.month - 3
           if now.day < 27:
               m -= 1
@@ -49,7 +49,7 @@ jobs:
           else:
               short = f'{y}.{m}'
 
-          print(f'Current dynamic experience from 2026-03-27: {short}+ Years (years={y}, months={m})')
+          print(f'Current dynamic experience from 2025-03-27: {short}+ Years (years={y}, months={m})')
 
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
