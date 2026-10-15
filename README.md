@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <b>Associate Software Engineer @ Test Yantra (1.6+ Years Experience)</b> • Designing high-performance, scalable backend applications with <b>Java, Spring Boot, Hibernate, Microservices Architecture, and PostgreSQL</b>.
+  <b>Associate Software Engineer @ Test Yantra (1.6 Years Experience)</b> • Designing high-performance, scalable backend applications with <b>Java, Spring Boot, Hibernate, Microservices Architecture, and PostgreSQL</b>.
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 ## 👨‍💻 About Me
 
 - 🌐 **Official Portfolio**: [**santhosh-bussa-portfolio.onrender.com**](https://santhosh-bussa-portfolio.onrender.com)
-- 🚀 **Java Backend Developer** with **1.6+ years of experience** building high-performance, scalable enterprise backend systems using **Java, Spring Boot, Hibernate, and Microservices Architecture**.
+- 🚀 **Java Backend Developer** with **1.6 years of experience** building high-performance, scalable enterprise backend systems using **Java, Spring Boot, Hibernate, and Microservices Architecture**.
 - 🔐 Experienced in implementing stateless **JWT Authentication & Role-Based Access Control (RBAC)** with **Spring Security**, reducing unauthorized access attempts by **99.99%**.
 - ⚡ Designed and optimized **20+ RESTful APIs** in microservices environments, improving response times by **20%** and executing **300+ API test cases** via **Postman**.
 - 🧠 Solved **360+ Data Structures & Algorithms** and pattern-based problems across **LeetCode** and **GeeksforGeeks**, strengthening core problem-solving and coding proficiency.
@@ -74,11 +74,11 @@
 | :--- | :--- | :--- | :---: |
 | **🛒 [Ecommerce Management System](https://github.com/SanthoshBussa/ecommerce-management-system)** | `Java` `Spring Boot` `Spring Security (JWT)` `Hibernate/JPA` `PostgreSQL` `Maven (pom.xml)` `Razorpay` `Postman` | • Architected scalable RESTful backend APIs for user authentication, cart management, and transactional order processing<br/>• Integrated stateless JWT authentication & RBAC using Spring Security<br/>• Built dynamic JPQL product filtering, pagination, 6-stage real-time order tracking APIs & Razorpay HMAC-SHA256 payment verification | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanthoshBussa/ecommerce-management-system) |
 | **🧠 Data Structures & Algorithms (DSA)** | `Java` `Data Structures` `Algorithms` `LeetCode` `GeeksforGeeks` | • Solved 360+ data structures, algorithms, and pattern-based problems in Java across LeetCode, GeeksforGeeks, and 10 algorithmic design patterns (Two Pointers, Sliding Window, Linked List, Stack, Queue, HashMap, LinkedHashMap, Trees, Graphs, DP) | ![360+ Solved](https://img.shields.io/badge/360+_Solved-0284C7?style=for-the-badge&logo=java&logoColor=white) |
-| **🌐 [Official Developer Portfolio](https://santhosh-bussa-portfolio.onrender.com)** | `Render Cloud` `Interactive API Explorer` `Santhosh_Resume` | • Live globally hosted portfolio featuring interactive Spring Boot REST API simulator, dynamic monthly experience calculation & downloadable resume | [![Live](https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=render&logoColor=white)](https://santhosh-bussa-portfolio.onrender.com) |
+| **🌐 [Official Developer Portfolio](https://santhosh-bussa-portfolio.onrender.com)** | `Render Cloud` `Interactive API Explorer` `my_resume` | • Live globally hosted portfolio featuring interactive Spring Boot REST API simulator, dynamic monthly experience calculation & downloadable resume | [![Live](https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=render&logoColor=white)](https://santhosh-bussa-portfolio.onrender.com) |
 
 ---
 
-## 💼 Work Experience & Education (Click to Expand)
+## 💼 Work Experience & Education
 
 <details open>
 <summary><b>🏢 Associate Software Engineer — Test Yantra, Bangalore (1.6+ Years Experience)</b></summary>
